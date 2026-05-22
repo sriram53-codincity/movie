@@ -1,0 +1,31 @@
+# Python
+
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Node Modules
+
+node_modules/
+
+# Vite
+
+dist/
+
+# VS Code
+
+.vscode/
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# MongoDB
+
+*.lock
+
+# Logs
+
+*.log
